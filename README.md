@@ -1,7 +1,3 @@
-# Create a README.md file using Python script
-
-readme_content = """# 🚀 K-Move 바이브 코딩 수업 과제 제출
-
 K-Move 바이브 코딩 수업에서 작성한 개인 및 팀 프로젝트 과제물 목록입니다.
 
 ---
