@@ -1,3 +1,5 @@
+# 🚀 K-Move 바이브 코딩 수업 과제 제출
+
 K-Move 바이브 코딩 수업에서 작성한 개인 및 팀 프로젝트 과제물 목록입니다.
 
 ---
@@ -35,11 +37,3 @@ K-Move 바이브 코딩 수업에서 작성한 개인 및 팀 프로젝트 과�
   * 1인 가구 자취생들의 주거, 식비, 생활 패턴 실태 파악
   * 데이터 수집을 위한 맞춤형 설문 항목 구성
   * 사용자 응답 편의성을 고려한 웹 디자인
-"""
-
-file_path = "README.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print(f"File created successfully: {file_path}")
-print("[file-tag: readme-md-kmove-assignments]")
